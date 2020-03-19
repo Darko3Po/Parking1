@@ -1,0 +1,7 @@
+.garancija:hover{
+	background-color: yellow;
+	transition: 1.5s
+}
+.garancija{
+	border-radius: 10px;
+}
